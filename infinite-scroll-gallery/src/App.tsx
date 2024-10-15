@@ -65,7 +65,7 @@ export default function App() {
     <div className="container">
       <nav>
         <h2 className="text-transparent bg-clip-text font-bold text-3xl whitespace-nowrap">
-          Image Gallery
+          Infinite Scroll Image Gallery
         </h2>
       </nav>
       {isLoading && (
