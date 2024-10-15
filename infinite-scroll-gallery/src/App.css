@@ -62,19 +62,18 @@ nav h2 {
   margin: 1rem auto;
 }
 
-/* Modal styles */
-/* Modal styles */
+
 .modal {
   position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.8); /* Black background with transparency */
+  background-color: rgba(0, 0, 0, 0.8);
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 100; /* Ensure it's on top */
+  z-index: 100;
 }
 
 .modal-content {
